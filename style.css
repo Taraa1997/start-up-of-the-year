@@ -1,0 +1,64 @@
+body,
+html{
+	width: 100%;
+	height: 100%;
+	font-family: Montserrat, Sans-serif;
+	background: url(https://www.zdnet.com/a/img/resize/765b4d16cf6261a71337fec025a6b6dc0d1e9348/2019/04/17/1f68c3a6-495e-4325-bc16-cc531812f0ec/chuwi-herobook-header.jpg?auto=webp&fit=crop&height=675&width=1200) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+
+}
+h1{
+	font-size: 3em;
+	color: green;
+
+}
+hr{
+	border-color:  #F05F44;
+	border-width: 4px;
+	max-width:65px ;
+	text-align: center;
+}
+
+
+  .buffer{
+	height: 10rem;
+}
+
+.btn{
+  font-weight:700 ;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn-primary{
+	background-color: #F05F44;
+	border-color:  #F05F44;
+}
+
+.btn-primary:hover{
+	background-color: #ee4b08;
+	border-color: #ee4b08;
+	border-width: 4px;
+
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
